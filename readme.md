@@ -1,4 +1,4 @@
-## Shell Scripting
+## Codility Tests
 
 I created this repository while practising tests on Codility. Its an ongoing project and I shall keep adding more PHP solutions to this repository in future.
 
