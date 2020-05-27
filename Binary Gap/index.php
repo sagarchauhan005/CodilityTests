@@ -28,4 +28,4 @@ function solution($N) {
     }
 }
 
-solution(32);
+echo solution(1000);
